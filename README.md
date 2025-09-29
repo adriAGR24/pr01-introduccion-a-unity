@@ -7,19 +7,27 @@
 
 Creamos un cubo 3D seleccionando la pestaña `GameObject > 3D Object > Cube`.
 
-<video src="media/crear-cubo.mp4" title="Crear cubo" loop="true" muted autoplay></video>
+[![Crear cubo](https://img.youtube.com/vi/u3oI1kd2uMo/maxresdefault.jpg)](https://youtu.be/u3oI1kd2uMo)
+
+▶️ [Ver en YouTube](https://youtu.be/u3oI1kd2uMo)
 
 Creamos una esfera 3D seleccionando la pestaña `GameObject > 3D Object > Sphere`.
 
-<video src="media/crear-esfera.mp4" title="Crear esfera" loop="true" muted autoplay></video>
+[![Crear esfera](https://img.youtube.com/vi/McZbsYz-L1s/maxresdefault.jpg)](https://youtu.be/McZbsYz-L1s)
+
+▶️ [Ver en YouTube](https://youtu.be/McZbsYz-L1s)
 
 Creamos una cápsula 3D seleccionando la pestaña `GameObject > 3D Object > Capsule`.
 
-<video src="media/crear-cápsula.mp4" title="Crear cápsula" loop="true" muted autoplay></video>
+[![Crear cápsula](https://img.youtube.com/vi/cckeFfM0Zoc/maxresdefault.jpg)](https://youtu.be/cckeFfM0Zoc)
+
+▶️ [Ver en YouTube](https://youtu.be/cckeFfM0Zoc)
 
 Creamos un cilindro 3D seleccionando la pestaña `GameObject > 3D Object > Cylinder`.
 
-<video src="media/crear-cilindro.mp4" title="Crear cilindro" loop="true" muted autoplay></video>
+[![Crear cilindro](https://img.youtube.com/vi/QWzfA9c41Tw/maxresdefault.jpg)](https://youtu.be/QWzfA9c41Tw)
+
+▶️ [Ver en YouTube](https://youtu.be/QWzfA9c41Tw)
 
 ## Adición en el proyecto del paquete Starter Assets
 
@@ -59,15 +67,21 @@ En este caso, importaremos a nuestro proyecto 3 paquetes distintos de la `Asset 
 
 Para importar estos paquetes, seguiremos los pasos realizados en el apartado anterior. Una vez con los paquetes en nuestro proyecto, introduciremos en la escena un objeto de cada asset. Comenzaremos introduciendo un camión del paquete `ZIL 130 Military truck`, concretamente uno de los `prefabs`.
 
-<video src="media/introducir-camión.mp4" title="Introducir camión" loop="true" muted autoplay></video>
+[![Introducir camión](https://img.youtube.com/vi/8FZ4foABYfo/maxresdefault.jpg)](https://youtu.be/8FZ4foABYfo)
+
+▶️ [Ver en YouTube](https://youtu.be/8FZ4foABYfo)
 
 Continuamos con el asset `Zombie`, donde introduciremos un `prefab` de zombie.
 
-<video src="media/introducir-zombie.mp4" title="Introducir zombie" loop="true" muted autoplay></video>
+[![Introducir zombie](https://img.youtube.com/vi/dcEhtvSuPIk/maxresdefault.jpg)](https://youtu.be/dcEhtvSuPIk)
+
+▶️ [Ver en YouTube](https://youtu.be/dcEhtvSuPIk)
 
 Finalmente añadimos a la escena una roca del paquete `Rock and Boulders 2`, igualmente utilizando un `prefab`.
 
-<video src="media/introducir-roca.mp4" title="Introducir roca" loop="true" muted autoplay></video>
+[![Introducir roca](https://img.youtube.com/vi/2aO77ya8-9E/maxresdefault.jpg)](https://youtu.be/2aO77ya8-9E)
+
+▶️ [Ver en YouTube](https://youtu.be/2aO77ya8-9E)
 
 ## Creación de terreno
 
