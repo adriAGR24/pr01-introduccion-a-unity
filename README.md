@@ -73,7 +73,9 @@ Finalmente añadimos a la escena una roca del paquete `Rock and Boulders 2`, igu
 
 Para crear un terreno 3D seleccionando la pestaña `GameObject > 3D Object > Terrain`.
 
-<video src="https://youtu.be/KN5LRlxzB1c" title="Crear terreno" loop="true" muted autoplay></video>
+[![Crear terreno](https://img.youtube.com/vi/KN5LRlxzB1c/maxresdefault.jpg)](https://youtu.be/KN5LRlxzB1c)
+
+▶️ [Ver en YouTube](https://youtu.be/KN5LRlxzB1c)
 
 A continuación, le damos relieve al terreno con la herramienta `Paint Terrain`.
 
@@ -91,27 +93,37 @@ Por último, esparcimos algunos árboles a lo largo del terreno para darle más 
 
 Crearemos una etiqueta para cada objeto de la escena. Para conseguirlo, seleccionaremos cualquier objeto, y en el `Inspector`, pinchamos sobre el campo `Tag > Add Tag`. Entonces, se nos abrirá el `Tag Manager`, desde el que crearemos una etriqueta para cada objeto.
 
-<video src="https://youtu.be/zw9-N0vqHsk" title="Crear etiquetas" loop="true" muted autoplay></video>
+[![Crear etiquetas](https://img.youtube.com/vi/zw9-N0vqHsk/maxresdefault.jpg)](https://youtu.be/zw9-N0vqHsk)
+
+▶️ [Ver en YouTube](https://youtu.be/zw9-N0vqHsk)
 
 Posteriormente, agregaremos la etiqueta correspondiente a cada objeto desde el `Inspector`.
 
-<video src="https://youtu.be/W7Z_GUZt6Uc" title="Añadir etiquetas" loop="true" muted autoplay></video>
+[![Añadir etiquetas](https://img.youtube.com/vi/W7Z_GUZt6Uc/maxresdefault.jpg)](https://youtu.be/W7Z_GUZt6Uc)
+
+▶️ [Ver en YouTube](https://youtu.be/W7Z_GUZt6Uc)
 
 ## Utilización del prefab del paquete Starter Assets - ThirdPerson
 
 Primero, localizaremos el prefab deseado. En este caso, lo encontraremos en `Assets > StarterAssets > ThirdPersonController > Prefabs > NestedParentArmature_Unpack`. Una vez localizado, arrastraremos el prefab a la escena.
 
-<video src="https://youtu.be/JU43QikPzr8" title="Añadir prefab del Starter Assets" loop="true" muted autoplay></video>
+[![Añadir prefab del Starter Assets](https://img.youtube.com/vi/JU43QikPzr8/maxresdefault.jpg)](https://youtu.be/JU43QikPzr8)
+
+▶️ [Ver en YouTube](https://youtu.be/JU43QikPzr8)
 
 Por defecto, el prefab incluye un panel de controles para móviles. Como en nuestro caso controlaremos al personaje mediante el teclado, desactivaremos este elemento: `UI_Canvas_StarterAssetsInputs_Joysticks`.
 
-<video src="https://youtu.be/AcErZlJEmCQ" title="Quitar controles del prefab del Starter Assets" loop="true" muted autoplay></video>
+[![Quitar controles del prefab del Starter Assets](https://img.youtube.com/vi/AcErZlJEmCQ/maxresdefault.jpg)](https://youtu.be/AcErZlJEmCQ)
+
+▶️ [Ver en YouTube](https://youtu.be/AcErZlJEmCQ)
 
 ## Adición de un script que escriba en la consola la etiqueta y posición de cada objeto que hayas utilizado. 
 
 Creamos un script vacío en C# en la carpeta `Assets`, seleccionando la pestaña `Create > Scripting > Empty C# Script`.
 
-<video src="https://youtu.be/HCnmz3nUitE" title="Crear script vacío" loop="true" muted autoplay></video>
+[![Crear script vacío](https://img.youtube.com/vi/HCnmz3nUitE/maxresdefault.jpg)](https://youtu.be/HCnmz3nUitE)
+
+▶️ [Ver en YouTube](https://youtu.be/HCnmz3nUitE)
 
 Programamos el script para que al inicio del juego se imprima por consola la etiqueta del objeto y su posición.
 
@@ -119,11 +131,15 @@ Programamos el script para que al inicio del juego se imprima por consola la eti
 
 Asignamos el script creado a cada objeto: en el `Inspector` seleccionamos `Add Component` y escribimos el nombre del script.
 
-<video src="https://youtu.be/iGfUyCPJkhs" title="Asignar script etiqueta-posición" loop="true" muted autoplay></video>
+[![Asignar script etiqueta-posición](https://img.youtube.com/vi/iGfUyCPJkhs/maxresdefault.jpg)](https://youtu.be/iGfUyCPJkhs)
+
+▶️ [Ver en YouTube](https://youtu.be/iGfUyCPJkhs)
 
 Ejecutamos el juego a fin de comprobar si el script funciona.
 
-<video src="https://youtu.be/v37VyPfYtcI" title="Funcionamiento script etiqueta-posición" loop="true" muted autoplay></video>
+[![Funcionamiento script etiqueta-posición](https://img.youtube.com/vi/v37VyPfYtcI/maxresdefault.jpg)](https://youtu.be/v37VyPfYtcI)
+
+▶️ [Ver en YouTube](https://youtu.be/v37VyPfYtcI)
 
 Asimismo, incluiremos un script específicamente para el personaje. Este script mostrará al inicio del juego la etiqueta y la posición del jugador. Además, cada vez que se mueva, se imprimirá nuevamente por consola la etiqueta y la nueva posición del mismo.
 
@@ -131,8 +147,11 @@ Asimismo, incluiremos un script específicamente para el personaje. Este script 
 
 Ejecutamos el juego con el objetivo de comprobar si el nuevo script funciona.
 
-<video src="https://youtu.be/fAdRpqfWfHs" title="Funcionamiento script etiqueta-posición-movimiento" loop="true" muted autoplay></video>
+[![Funcionamiento script etiqueta-posición-movimiento](https://img.youtube.com/vi/fAdRpqfWfHs/maxresdefault.jpg)](https://youtu.be/fAdRpqfWfHs)
+
+▶️ [Ver en YouTube](https://youtu.be/fAdRpqfWfHs)
 
 ## Ejecución del juego
+[![Ejecución del juego](https://img.youtube.com/vi/odVaqTvgGlM/maxresdefault.jpg)](https://youtu.be/odVaqTvgGlM)
 
-<video src="https://youtu.be/odVaqTvgGlM" title="Ejecución del juego" loop="true" muted autoplay></video>
+▶️ [Ver en YouTube](https://youtu.be/odVaqTvgGlM)
